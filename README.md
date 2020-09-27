@@ -5,7 +5,7 @@
 可以从上面Code下载，也可以从右面Releases下载~
 
 > Tips:Windows系统下载.zip   
-     > Linux系统下载.tar.gz
+       Linux系统下载.tar.gz
 
 V1.0 特点：运行后立即关闭极域电子教室进程
 

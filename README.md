@@ -2,10 +2,9 @@
 # 极域世界(JiYu_World)
 破解极域电子教室
 
-可以从上面Code下载，也可以从右面Releases下载~
+建议从右面Releases下载~
 
-> Tips:Windows系统下载.zip   
-       Linux系统下载.tar.gz
+***
 
 V1.0 特点：运行后立即关闭极域电子教室进程
 
